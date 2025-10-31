@@ -20,7 +20,7 @@ role: "Assistant Professor of Business Analytics"
 position: "School of Business and Leadership"
 organization: "DePauw University, Greencastle, IN, 46135"
 email: "yanchaoyang at depauw dot edu"
-Phone: "+1(951)4725216"
+
 
 
 social:
@@ -68,17 +68,19 @@ social:
 ---
 
 
+#### RESEARCH FIELDS
+
+Health Economics, Business Analytics, Machine Learning, Artificial Intelligence
+
+#### EMPLOYMENT
+
+Assistant Professor of Business Analytics, DePauw University, 	2024 - present
+
 #### EDUCATION
 
 Ph.D., Economics, University of California, Riverside, 2021     
 
 M.A., Economics, University of California, Riverside, 2017
 
-#### EMPLOYMENT
-
-Assistant Professor of Business Analytics, DePauw University, 	2024 - present
 
 
-#### RESEARCH FIELDS
-
-Health Economics, Business Analytics, Machine Learning, Artificial Intelligence
