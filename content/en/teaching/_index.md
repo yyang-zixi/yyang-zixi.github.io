@@ -10,24 +10,24 @@ title:  Teaching
 
 ### DePauw University
 
-Business Analytics Senior Capstone, Fall 2025
+BUSA 480 Business Analytics Senior Capstone
 
-Gateway to Business Analytics, Fall 2024, Spring 2025
+BUSA 380 Causality and AI for Healthcare Business, Spring 2025
 
-Machine Learning for Business Analytics, Fall 2024, Spring 2025
+BUSA 310 Machine Learning for Business Analytics
 
-Causality and AI for Healthcare Business, Spring 2025
+BUSA 110 Gateway to Business Analytics, Fall 2024, Spring 2025
+
 
 ## &nbsp;
 
 ### DePaul University
 
-Business Analytics, Fall 2022 - present
+Business Analytics
 
-Analytics for Economics (Econometrics), Spring 2022, Spring 2023
+Econometrics
 
-Health Economics, Winter 2022, Winter 2023
+Health Economics
 
-Principles of Microeconomics, Fall 2021, Winter 2022, Spring 2022
+Principles of Microeconomics
 
-Descriptive and Diagnostic Business Analytics, Winter 2024
