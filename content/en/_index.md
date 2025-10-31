@@ -74,13 +74,9 @@ Ph.D., Economics, University of California, Riverside, 2021
 
 M.A., Economics, University of California, Riverside, 2017
 
-B.S., Financial Mathematics, Shanghai Finance University, China,  2015
-
 #### EMPLOYMENT
 
 Assistant Professor of Business Analytics, DePauw University, 	2024 - present
-
-Clinical Instructor, Department of Economics, DePaul University, 2021 - 2024
 
 
 #### RESEARCH FIELDS
