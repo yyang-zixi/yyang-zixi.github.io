@@ -1,0 +1,62 @@
+{{- define "main" -}}
+  {{- $pubs := site.Data.publications.publications -}}
+  {{- $papers := site.Data.publications.working_papers -}}
+
+<section class="home-section publication-page">
+  <div class="container ">
+
+    <section class=" content-box-c1">
+      <h2>{{ .Title }}</h2>
+      <div class="box-text-content">
+
+        <ul>
+          {{ range  $index, $item := $pubs }}
+            <li class="pub-item">
+
+              <span class="pub-authors">{{ $item.authors | markdownify | emojify }}</span>,
+              <span class="pub-title">{{ $item.title | markdownify | emojify }}</span>
+
+              <span class="pub-journal">{{ $item.journal | markdownify | emojify }}</span>
+              <span class="pub-pages">
+                  {{ $item.year | markdownify | emojify }},
+                  {{ $item.volume | markdownify | emojify }},
+                  {{ $item.pages | markdownify | emojify }}
+              </span>
+
+            </li>
+          {{ end }}
+        </ul>
+
+      </div>
+    </section>
+
+    <section class=" content-box-c1">
+      <h2>Working Papers</h2>
+      <div class="box-text-content">
+
+        <ul>
+          {{ range  $index, $item := $papers }}
+            <li class="pub-item">
+
+              <span class="pub-authors">{{ $item.authors | markdownify | emojify }}</span>,
+              <span class="pub-title">{{ $item.title | markdownify | emojify }}</span>
+
+              <span class="pub-journal">{{ $item.journal | markdownify | emojify }}</span>
+              <span class="pub-pages">
+                  {{ $item.date | markdownify | emojify }},
+                  {{ $item.status | markdownify | emojify }},
+              </span>
+
+            </li>
+          {{ end }}
+        </ul>
+
+      </div>
+    </section>
+
+
+  </div>
+</section>
+
+
+{{- end -}}

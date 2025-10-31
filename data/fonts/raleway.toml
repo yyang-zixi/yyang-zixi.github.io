@@ -1,0 +1,14 @@
+# The Native Font Theme provides optimum text rendering on every device and OS.
+# Note that the native font families are automatically populated by Academic.
+
+# Font style metadata
+name = "Raleway"
+
+# Optional Google font URL
+google_fonts = "family=Raleway:wght@400;700&display=swap"
+
+# Font families
+heading_font = "Raleway"
+body_font = "Raleway"
+nav_font = "Raleway"
+mono_font = "Raleway"

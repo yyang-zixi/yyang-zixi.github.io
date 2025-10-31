@@ -1,0 +1,22 @@
+{{- define "main" -}}
+  {{- $pubs := site.Data.publications.publications -}}
+  {{- $papers := site.Data.publications.working_papers -}}
+
+<section class="home-section publication-page">
+  <div class="container ">
+
+    <section class=" content-box-c1">
+      <h2>{{ .Title }}</h2>
+      <div class="box-text-content">
+
+        {{ .Content }}
+      </div>
+    </section>
+
+
+
+  </div>
+</section>
+
+
+{{- end -}}

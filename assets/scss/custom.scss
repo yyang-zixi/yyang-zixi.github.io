@@ -1,0 +1,231 @@
+// Override this file to add your own SCSS styling.
+
+$theme-primary-color: #003DA5;
+$theme-yellow-color: #ffb81c;
+
+
+body {
+  background-color: #f9f9f9;
+  color: #333333;
+}
+
+
+
+
+@media (min-width: 992px) {
+  .d-lg-inline-flex {
+    display: none !important ;
+  }
+}
+
+
+.navbar {
+  //background: #11539e;
+  font-size: 1rem;
+}
+#navbar-main .main-menu-item ul li .nav-link span::first-letter {
+  font-weight: bold;
+}
+#navbar-main .main-menu-item ul li .nav-link{
+  //color: #fff;
+}
+#navbar-main .main-menu-item ul li .nav-link:before {
+  content: "";
+  padding-right: 1rem;
+}
+#navbar-main .main-menu-item ul   {
+  li.nav-item:first-child {
+    .nav-link:before  {
+      display: none;
+    }
+  }
+}
+
+
+.navbar-light .navbar-toggler {
+  background-color: $theme-yellow-color;
+  color: $theme-primary-color;
+  padding: 0.5rem;
+}
+
+
+
+
+
+.home-section:first-of-type {
+  padding-top: 1px;
+}
+
+.site-header-container {
+  color: #fff;
+  text-shadow: 0 2px 1px rgba(0, 0, 0, 0.67) !important;
+  background-position: 50% 50%;
+  background-size: cover;
+}
+.site-header-container {
+  .scrim  {
+    padding: 9em 1em !important;
+
+    .site-header {
+      text-align: center;
+    }
+    .title {
+      font-size: 3rem;
+      color: #fff;
+    }
+  }
+
+}
+
+
+
+
+
+.top-img-wrap {
+  background: url(../images/design/top.jpg) no-repeat center center;
+  background-size: cover;
+  color: white;
+  height: 400px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-bottom: 1px solid $theme-yellow-color;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  box-sizing: border-box;
+  .top-img-text {
+    font-size: 3em;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+  }
+}
+
+
+
+
+
+.wg-hero {
+  padding: 50px;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  .profile-wrap {
+    width: 60%;
+    margin: 4rem auto 1rem auto;
+    .avatar-wrap {
+      display: flex;
+      justify-content: flex-end;
+      padding: 1rem 1rem 0 0;
+      img {
+        width: 210px;
+      }
+    }
+    .profile-text-wrap {
+      .p-name {
+        font-weight: bold;
+        font-size: 2.4rem;
+      }
+      .p-role {
+        font-weight: bolder;
+      }
+      .p-email {
+        span {font-weight: bolder;}
+      }
+      .p-office {
+        span {font-weight: bolder;}
+      }
+      .social-icon {
+        font-size: 1.2rem;
+        padding: 1rem 0 0 0;
+      }
+    }
+  }
+}
+
+
+.content-box-c1 {
+  background-color: white;
+  padding: 1.4rem;
+  margin: 1.4rem auto;
+  border-radius: 1rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  font-size: 1rem;
+  h2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  .box-text-content {
+    padding: 1rem 0 0 2rem;
+  }
+}
+
+
+
+
+
+.publication-page{
+  .pub-title{
+    font-weight: bold;
+  }
+  .pub-journal {
+    font-style: italic;
+  }
+  .pub-item{
+    margin: 1rem 0;
+  }
+}
+
+
+
+
+.page-footer {
+  margin: 1rem 0 0 0;
+  padding: 2rem 0;
+  background-color: $theme-primary-color;
+  opacity: 0.7;
+  .site-footer {
+    margin: 0;
+    .copy-right-text {
+      text-align: center;
+      color: white;
+      opacity: 1;
+    }
+
+  }
+}
+
+
+
+
+
+
+// 手机
+@media (max-width: 478px) {
+
+
+  html {
+    font-size: 16px;
+  }
+
+
+  .wg-hero {
+    .profile-wrap {
+      width: 100%;
+      .avatar-wrap {
+        justify-content: flex-start;
+      }
+    }
+  }
+
+
+
+
+  .top-img-wrap {
+    height: 100px;
+    padding: 1.5rem;
+    .top-img-text {
+      font-size: 1.5rem;
+    }
+  }
+}
