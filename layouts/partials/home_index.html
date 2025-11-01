@@ -14,7 +14,7 @@
         <div class="p-position">{{.Params.position | markdownify | emojify }}</div>
         <div class="p-organization">{{.Params.organization | markdownify | emojify }}</div>
         <div class="p-email"><span>Email:</span> {{.Params.email | markdownify | emojify }}</div>
-        <div class="p-office"><span>Phone:</span> {{.Params.email | markdownify | emojify }}</div>
+        <div class="p-office"> <a target="_blank" href="{{ "uploads/cv.pdf" | relURL }}">CV</a> </div>
 
         <ul class="network-icon" aria-hidden="true">
           {{ range .Params.social }}

@@ -14,7 +14,7 @@
             <li class="pub-item">
 
               <span class="pub-authors">{{ $item.authors | markdownify | emojify }}</span>,
-              <span class="pub-title">{{ $item.title | markdownify | emojify }}</span>
+              <span class="pub-title"><a target="_blank" href="{{$item.link | relURL }}">{{ $item.title | markdownify | emojify }}</a></span>
 
               <span class="pub-journal">{{ $item.journal | markdownify | emojify }}</span>
               <span class="pub-pages">

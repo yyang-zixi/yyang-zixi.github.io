@@ -1,5 +1,6 @@
 publications:
   - title: "Birth Outcomes in the Hispanic Population in the United States: Trends, Variation, and Determinants (2011–2021)"
+    link: uploads/birth-outcomes.pdf
     authors: "**Yanchao Yang**, Sota Fujii, Thinh Nguyen"
     journal: "International Journal of Environmental Research and Public Health"
     year: 2025
@@ -7,6 +8,7 @@ publications:
     pages: "1325"
 
   - title: "Racial Disparities in Cesarean Section Rates Between Non-Hispanic Black and Non-Hispanic White Populations in the United States"
+    link: uploads/racial-disparities.pdf
     authors: "**Yanchao Yang**, Maggie Mullen, and Guangda Zhang"
     journal: "Atlantic Economic Journal"
     year: 2024
@@ -14,6 +16,7 @@ publications:
     pages: "213–228"
 
   - title: "Insurer Market Power and Hospital Prices In The US"
+    link: https://www.healthaffairs.org/doi/10.1377/hlthaff.2022.01184?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed
     authors: "Anthony T. Lo Sasso, Kevin Toczydlowski, and **Yanchao Yang**"
     journal: "Health Affairs"
     year: 2023
