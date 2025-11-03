@@ -80,7 +80,5 @@ Assistant Professor of Business Analytics, DePauw University, 	2024 - present
 
 Ph.D., Economics, University of California, Riverside, 2021     
 
-M.A., Economics, University of California, Riverside, 2017
-
 
 
