@@ -25,3 +25,9 @@ Through this interdisciplinary approach, we aim to transform how researchers, cl
 We are always looking for motivated students and collaborators who share our mission.
 
 Summer and Winter Research Assistant positions are available. Feel free to contact us if you are interested in joining the HealthQuant Lab.
+
+**Current Research Fellows:**
+Ella Kuenster  
+Thinh Nguyen  
+Sota Fujii
+
