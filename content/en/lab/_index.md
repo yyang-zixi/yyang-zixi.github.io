@@ -28,6 +28,7 @@ Summer and Winter Research Assistant positions are available. Feel free to conta
 
 **Current Research Fellows:**
 
+
 Ella Kuenster  
 
 Thinh Nguyen  
