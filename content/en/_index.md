@@ -16,9 +16,7 @@ type: home_index
 #top_image:  "images/design/home_top_image.jpg"
 
 name: "Yanchao Yang"
-role: |
-  Assistant Professor of Business Analytics
-  Endowed Professor for Early-Career Distinction
+role: "Assistant Professor of Business Analytics<br>Endowed Professor for Early-Career Distinction"
 position: "School of Business and Leadership"
 organization: "DePauw University, Greencastle, IN, 46135"
 email: "yanchaoyang at depauw dot edu"
