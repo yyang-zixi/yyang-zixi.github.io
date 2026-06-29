@@ -32,7 +32,7 @@ publications:
     pages: "615-621"
 
 working_papers:
-  - title: "Data-driven C-section risk modeling with geographic insights: a U.S. population-based machine learning analysis"
+  - title: "Data-driven C-section risk modeling with geographic insights: a U.S. population-based machine learning analysis."
     authors: "Yanchao Yang"
     status: "R&R"
     journal: "JMIR Formative Research"
