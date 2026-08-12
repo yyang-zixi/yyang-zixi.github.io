@@ -1,11 +1,9 @@
 publications:
   - title: "Predicting Cesarean Section Delivery in the United States Using Machine Learning: A Population-Based Retrospective Study"
-    link: "/uploads/predicting-cesarean-section-delivery-in-the-united-states-using-machine-learning.pdf"
     authors: "Yanchao Yang"
     journal: "JMIR Formative Research"
     year: "Forthcoming"
-    volume: ""
-    pages: "" 
+  
   
   - title: "Predicting Thoroughbred Yearling Auction Prices with Machine Learning: Evidence from the Keeneland September Sale"
     link: "/uploads/predicting-thoroughbred-yearling-auction-prices-with-machine-learning-evidence-from-the-keeneland-september-sale.pdf"
@@ -40,11 +38,6 @@ publications:
     pages: "615-621"
 
 working_papers:
-  - title: "Data-driven C-section risk modeling with geographic insights: a U.S. population-based machine learning analysis."
-    authors: "Yanchao Yang"
-    status: "R&R"
-    journal: "JMIR Formative Research"
-
   - title: "Marijuana Legalization and Infant Health in the U.S."
     authors: "Yanchao Yang"
     status: "under review"
