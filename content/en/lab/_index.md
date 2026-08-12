@@ -22,20 +22,3 @@ Our research agenda is built on three interconnected pillars:
 
 Through this interdisciplinary approach, we aim to transform how researchers, clinicians, and policymakers use data to build more equitable and efficient health systems.
 
-We are always looking for motivated students and collaborators who share our mission.
-
-Summer and Winter Research Assistant positions are available. Feel free to contact us if you are interested in joining the HealthQuant Lab.
-
-**Current Research Fellows:**
-
-
-Ella Kuenster  
-
-Thinh Nguyen  
-
-Sota Fujii
-
-Wan Jun Wen
-
-Sofiah Nguyen
-
