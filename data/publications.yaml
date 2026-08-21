@@ -4,9 +4,9 @@ publications:
     authors: "Yanchao Yang"
     journal: "JMIR Formative Research"
     year: "August 2026"
-    volumne: "10:e94172"
-  
-  
+    volumne: "10"
+    pages: ":e94172"
+ 
   - title: "Predicting Thoroughbred Yearling Auction Prices with Machine Learning: Evidence from the Keeneland September Sale"
     link: "/uploads/predicting-thoroughbred-yearling-auction-prices-with-machine-learning-evidence-from-the-keeneland-september-sale.pdf"
     authors: "Yanchao Yang, John Clarke, Tapan Mandal, Thinh Nguyen, Trung Pham"
