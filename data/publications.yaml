@@ -1,8 +1,10 @@
 publications:
   - title: "Predicting Cesarean Section Delivery in the United States Using Machine Learning: A Population-Based Retrospective Study"
+    link: "/uploads/ML_CSection.pdf"
     authors: "Yanchao Yang"
     journal: "JMIR Formative Research"
-    year: "Forthcoming"
+    year: "August 2026"
+    volumne: "10:e94172"
   
   
   - title: "Predicting Thoroughbred Yearling Auction Prices with Machine Learning: Evidence from the Keeneland September Sale"
